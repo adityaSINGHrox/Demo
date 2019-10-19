@@ -1,1 +1,1 @@
-print("MANJUNATH R HEGDE")
+print("MANJUNATH")
